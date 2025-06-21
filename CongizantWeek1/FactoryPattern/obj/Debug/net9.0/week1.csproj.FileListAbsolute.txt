@@ -1,0 +1,14 @@
+C:\Users\gpras\OneDrive\Desktop\week1\obj\Debug\net9.0\week1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpras\OneDrive\Desktop\week1\obj\Debug\net9.0\week1.AssemblyInfoInputs.cache
+C:\Users\gpras\OneDrive\Desktop\week1\obj\Debug\net9.0\week1.AssemblyInfo.cs
+C:\Users\gpras\OneDrive\Desktop\week1\obj\Debug\net9.0\week1.csproj.CoreCompileInputs.cache
+C:\Users\gpras\OneDrive\Desktop\week1\bin\Debug\net9.0\week1.exe
+C:\Users\gpras\OneDrive\Desktop\week1\bin\Debug\net9.0\week1.deps.json
+C:\Users\gpras\OneDrive\Desktop\week1\bin\Debug\net9.0\week1.runtimeconfig.json
+C:\Users\gpras\OneDrive\Desktop\week1\bin\Debug\net9.0\week1.dll
+C:\Users\gpras\OneDrive\Desktop\week1\bin\Debug\net9.0\week1.pdb
+C:\Users\gpras\OneDrive\Desktop\week1\obj\Debug\net9.0\week1.dll
+C:\Users\gpras\OneDrive\Desktop\week1\obj\Debug\net9.0\refint\week1.dll
+C:\Users\gpras\OneDrive\Desktop\week1\obj\Debug\net9.0\week1.pdb
+C:\Users\gpras\OneDrive\Desktop\week1\obj\Debug\net9.0\week1.genruntimeconfig.cache
+C:\Users\gpras\OneDrive\Desktop\week1\obj\Debug\net9.0\ref\week1.dll
